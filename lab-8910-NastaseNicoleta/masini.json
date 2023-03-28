@@ -1,0 +1,56 @@
+{
+  "12": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "12",
+    "model": "dfs",
+    "anAchizitie": 1231,
+    "nrKm": 325326,
+    "inGarantie": "da",
+    "garantie": "nu"
+  },
+  "134": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "134",
+    "model": "sfdsf",
+    "anAchizitie": 1321,
+    "nrKm": 1242352,
+    "inGarantie": "nu",
+    "garantie": "nu"
+  },
+  "14235": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "14235",
+    "model": "adfad",
+    "anAchizitie": 1233,
+    "nrKm": 120,
+    "inGarantie": "da",
+    "garantie": "nu"
+  },
+  "2004": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "2004",
+    "model": "Audi1428",
+    "anAchizitie": 1907,
+    "nrKm": 17721328,
+    "inGarantie": "Da",
+    "garantie": "nu"
+  },
+  "1900": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "1900",
+    "model": "Audi6625",
+    "anAchizitie": 1913,
+    "nrKm": 18550637,
+    "inGarantie": "D",
+    "garantie": "nu"
+  },
+  "1924": {
+    "py/object": "Domain.Masina.Masina",
+    "idEntitate": "1924",
+    "model": "Audi1416",
+    "anAchizitie": 1967,
+    "nrKm": 15857569,
+    "inGarantie": "D",
+    "garantie": "nu"
+  }
+}

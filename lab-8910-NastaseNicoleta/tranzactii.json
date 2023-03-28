@@ -1,0 +1,122 @@
+{
+  "10": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "idEntitate": "10",
+    "idMasina": "1",
+    "idCardClient": "1",
+    "sumaPiese": 0,
+    "sumaManopera": 40.0,
+    "data": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "BFcLCw=="
+        ]
+      ]
+    },
+    "ora": {
+      "py/object": "datetime.time",
+      "__reduce__": [
+        {
+          "py/type": "datetime.time"
+        },
+        [
+          "CwsAAAAA"
+        ]
+      ]
+    }
+  },
+  "11": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "idEntitate": "11",
+    "idMasina": "2",
+    "idCardClient": "2",
+    "sumaPiese": 0,
+    "sumaManopera": 60.0,
+    "data": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B9ACFA=="
+        ]
+      ]
+    },
+    "ora": {
+      "py/object": "datetime.time",
+      "__reduce__": [
+        {
+          "py/type": "datetime.time"
+        },
+        [
+          "FBQAAAAA"
+        ]
+      ]
+    }
+  },
+  "3": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "idEntitate": "3",
+    "idMasina": "1",
+    "idCardClient": "1",
+    "sumaPiese": 131423.0,
+    "sumaManopera": 20.0,
+    "data": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "BFcLCw=="
+        ]
+      ]
+    },
+    "ora": {
+      "py/object": "datetime.time",
+      "__reduce__": [
+        {
+          "py/type": "datetime.time"
+        },
+        [
+          "CwsAAAAA"
+        ]
+      ]
+    }
+  },
+  "123": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "idEntitate": "123",
+    "idMasina": "1",
+    "idCardClient": "1",
+    "sumaPiese": 1200.0,
+    "sumaManopera": 20.0,
+    "data": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B+ULCw=="
+        ]
+      ]
+    },
+    "ora": {
+      "py/object": "datetime.time",
+      "__reduce__": [
+        {
+          "py/type": "datetime.time"
+        },
+        [
+          "CwsAAAAA"
+        ]
+      ]
+    }
+  }
+}
